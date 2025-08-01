@@ -1,1 +1,1 @@
-# Pixel-AOSP-For-Xiaomi-13-Pro-NUWA-
+# Pixel-AOSP-For-Xiaomi-13-Pro-NUWA
