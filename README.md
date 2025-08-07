@@ -10,7 +10,7 @@ https://github.com/lofx-lee/android_device_xiaomi_nuwa
 ```
 https://github.com/lofx-lee/android_device_xiaomi_sm8550-common
 ```
-# hardware
+# Hardware
 
 ```
 https://github.com/lofx-lee/android_hardware_xiaomi
@@ -26,7 +26,7 @@ https://github.com/lofx-lee/android_kernel_xiaomi_sm8550-modules
 ```
 https://github.com/lofx-lee/android_kernel_xiaomi_sm8550-devicetrees
 ```
-# proprietary Vendor trees
+# Proprietary vendor trees
 
 ```
 https://github.com/lofx-lee/proprietary_vendor_xiaomi_nuwa
